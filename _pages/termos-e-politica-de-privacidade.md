@@ -191,4 +191,4 @@ __Bem-vindos aos Termos e Condições de Uso e Política de Privacidade do aplic
 
 <br>
 
-__Entre em contato conosco via suporte@appelouapps.com em caso de dúvidas ou solicitações relacionadas aos seus dados pessoais.__ 
+__Entre em contato conosco via contact@rubenspessoa.dev em caso de dúvidas ou solicitações relacionadas aos seus dados pessoais.__ 
